@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+Hello World!
+Speak the Truth and Clean Your Room!
+
+Lobsters will Rule The World
